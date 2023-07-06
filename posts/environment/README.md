@@ -1,1 +1,0 @@
-# djangoproject_1
