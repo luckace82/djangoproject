@@ -1,2 +1,3 @@
-/calculator/home.html
-/venv
+# .gitignore
+
+venv/
